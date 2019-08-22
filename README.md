@@ -5,4 +5,5 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 
 >>>>>>> feature1
-I am forver iron man
+I am iron man
+Avengers
